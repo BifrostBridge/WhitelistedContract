@@ -1,0 +1,19 @@
+{
+  "address": "0xDb50D5bDD4a35fA387628c37f0F70F0c471825D6",
+  "name": "Pussy MYR",
+  "type": "ERC20",
+  "metadata": {
+    "symbol": "MYR",
+    "decimal": 18
+  },
+  "method": {
+    "0x40c10f19": {
+      "name": "mint",
+      "inputs: [
+        {"name": "to", "type": "address"},
+        {"name": "amount", "type": "uint256"},
+      ]
+    }
+  },
+    
+}
