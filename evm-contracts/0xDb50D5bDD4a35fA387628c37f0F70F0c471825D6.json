@@ -9,7 +9,7 @@
   "method": {
     "0x40c10f19": {
       "name": "mint",
-      "inputs: [
+      "inputs": [
         {"name": "to", "type": "address"},
         {"name": "amount", "type": "uint256"},
       ]
